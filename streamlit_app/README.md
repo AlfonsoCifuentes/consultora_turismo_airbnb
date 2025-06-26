@@ -10,7 +10,7 @@ Dashboard interactivo desarrollado por **consultores en turismo sostenible** par
 
 **🌐 URL Pública:** `https://turismo-urbano-regulatorio.streamlit.app/`
 
-### 📋 Funcionalidades Principales
+### 📋 Funcionalidades Principales2
 
 #### 🗺️ Mapas Interactivos
 - **Mapas coropléticos** por niveles de saturación
