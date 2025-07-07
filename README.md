@@ -24,7 +24,6 @@ https://consultoraturismoairbnb.streamlit.app/
 </div>
 
 ---
-z
 ## 🎯 **OBJETIVOS DEL PROYECTO**
 
 > **CONSULTORA CONTRATADA POR GOBIERNO LOCAL**
