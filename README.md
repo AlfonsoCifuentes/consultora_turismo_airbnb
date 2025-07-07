@@ -11,6 +11,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 
+https://consultoraturismoairbnb.streamlit.app/
+
 ### 📊 Análisis del Impacto Urbano de Airbnb en España
 #### *Madrid • Barcelona • Mallorca*
 
@@ -33,7 +35,8 @@ z
 - 🏘️ **Densidad por barrio:** Alojamientos Airbnb por km² o por 1.000 habitantes
 - ⚖️ **Ratio turístico/residencial:** % de viviendas dedicadas a Airbnb vs. residenciales
 - 🚨 **Saturación territorial:** Capacidad turística vs. población/área local
-- 💸 **Análisis económico:** Impacto económico del turismo en las ciudades analizadas. 
+- 💸 **Análisis económico:** Impacto económico del turismo en las ciudades analizadas.
+- 🔥 **Ocupación:** Demanda de alojamiento turístico durante el periodo analizado.
 
 ---
 
@@ -189,6 +192,8 @@ streamlit run streamlit_app/app_nuevo.py
 ---
 
 ## 📈 **DASHBOARD INTERACTIVO**
+
+https://consultoraturismoairbnb.streamlit.app/
 
 ### 🖥️ **Funcionalidades del Dashboard Principal (`app_unificado.py`)**
 - 🗺️ **Mapas interactivos** de densidad por barrio con datos en tiempo real
@@ -410,7 +415,7 @@ Todos los datos han sido procesados siguiendo estándares de calidad científica
 
 **Contribuyendo al desarrollo urbano equilibrado y sostenible**
 
-**🚀 Aplicación Principal:** `streamlit run streamlit_app/app_unificado.py`
+**🚀 Aplicación Principal:** https://consultoraturismoairbnb.streamlit.app/
 
 ---
 
